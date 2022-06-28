@@ -1,0 +1,13 @@
+name: Demo module
+type: module
+description: Adds the Demo module.
+core_version_requirement: ^9
+package: TestModule
+dependencies:
+  - group:group
+  - drupal:image
+  - config_rewrite:config_rewrite
+  - userprotect:userprotect
+  - role_delegation:role_delegation
+
+version: '3.0.0'
