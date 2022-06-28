@@ -4,6 +4,12 @@
     "description": "Test module class.",
     "homepage": "http://drupal.org/project/opigno_class",
     "license": "GPL-2.0-or-later",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        },
+    ],
     "require": {
         "drupal/core": "^9"
     }
