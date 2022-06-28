@@ -2,7 +2,6 @@
     "name": "dipayanpramanik05/testmodule",
     "type": "drupal-module",
     "description": "Test module class.",
-    "homepage": "http://drupal.org/project/opigno_class",
     "license": "GPL-2.0-or-later",
     "repositories": [
         {
